@@ -1,0 +1,2 @@
+# Algoritma
+Latihan 1
