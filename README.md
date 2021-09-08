@@ -1,8 +1,8 @@
 # Algoritma
 Latihan1.md
 
-alat= gelas, sendok teh
-bahan= gula, kopi, air hangat
+alat= gelas,sendok 
+bahan= gula pasir,kopi bubuk,air hangat
 
 1. sediakan 1 gelas kosong
 2. masukkan kopi ke dalam gelas sebanyak 1-2 sendok teh
