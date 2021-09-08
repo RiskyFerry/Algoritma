@@ -5,8 +5,8 @@ alat= gelas,sendok
 bahan= gula pasir,kopi bubuk,air hangat
 
 1. sediakan satu gelas kosong
-2. masukkan kopi ke dalam gelas sebanyak 1-2 sendok teh
-3. masukkan gula 2-3 sendok teh
+2. masukkan kopi ke dalam gelas sebanyak 1½ sendok teh
+3. masukkan gula 3 sendok teh
 4. tuang air panas secukupnya
 5. aduk hingga merata
 6. cicipi kopi sedikit
