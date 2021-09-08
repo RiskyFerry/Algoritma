@@ -1,5 +1,6 @@
 # Algoritma
 Latihan1.md
+Membuat Kopi Yang Manisnya Pas
 
 alat= gelas,sendok 
 bahan= gula pasir,kopi bubuk,air hangat
