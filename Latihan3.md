@@ -1,4 +1,4 @@
-Mengurutkan tiga bilangan acak
+## Mengurutkan tiga bilangan acak
 
 1. dua satu lima
 2. dua bilangan pertama
@@ -10,4 +10,23 @@ Mengurutkan tiga bilangan acak
 8. dua dan lima
 9. dua lebih kecil dari lima
 10. posisi bilangan tetap
-11. hasilnya satu dua lima
+11. hasilnya satu dua dan lima
+
+## Format algoritma dalam bentuk bahasa C
+```c
+main() {
+int a;
+int b;
+int c;
+
+a = 2;
+b = 1;
+c = 5;
+  
+a = b;
+b = a;
+c = c;
+
+}
+
+```
