@@ -4,7 +4,7 @@
 2. dua bilangan pertama
 3. dua dan satu
 4. dua lebih besar dari satu
-5. tukar tenpat
+5. tukar tempat
 6. menjadi satu dan dua
 7. dua bilangan kedua
 8. dua dan lima
